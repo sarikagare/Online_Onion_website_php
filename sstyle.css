@@ -1,0 +1,75 @@
+body{
+    width: 1024px;
+    margin: auto;
+    font-family:Arial;
+    background-color: lightgrey;
+    color: white;
+}
+
+#i1{
+    margin:50px;
+    height:300px;
+    width: 300px;
+    float: left;
+    background-image: url("images/black.jpg");
+}
+#i2{
+    margin:50px;
+    height:300px;
+    width: 300px;
+    float: left;
+    background-image: url("images/s1.jpg");
+}
+
+
+#i3{
+    margin:50px;
+    height:300px;
+    width: 300px;
+    float: right;
+    background-image: url("images/s2.jpg");
+}
+
+#i4{
+    margin:50px;
+    height:300px;
+    width: 300px;
+    float: left;
+    background-image: url("images/t2.jpg");
+}
+
+#t1{
+    margin:50px;
+    height:300px;
+    width: 500px;
+    float: left;
+    font-size:40px;
+    text-shadow: 2px 2px 2px black;
+}
+
+#t2{
+    margin:50px;
+    height:300px;
+    width: 500px;
+    float: right;
+     font-size:40px;
+    text-shadow: 2px 2px 2px black;
+}
+
+#t3{
+    margin:50px;    
+    height:300px;
+    width: 500px;
+    float: left;
+     font-size:40px;
+    text-shadow: 2px 2px 2px black;
+}
+
+#t4{
+    margin:50px;    
+    height:300px;
+    width: 500px;
+    float: right;
+     font-size:40px;
+    text-shadow: 2px 2px 2px black;
+}
